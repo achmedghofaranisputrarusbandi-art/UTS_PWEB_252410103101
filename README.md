@@ -43,16 +43,3 @@ php artisan serve
 
 Buka `http://127.0.0.1:8000` di browser.
 
-## Screenshot
-
-### Login
-![Login](screenshots/login.png)
-
-### Dashboard
-![Dashboard](screenshots/dashboard.png)
-
-### Pengelolaan
-![Pengelolaan](screenshots/pengelolaan.png)
-
-### Profile
-![Profile](screenshots/profile.png)
